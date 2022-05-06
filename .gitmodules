@@ -1,0 +1,9 @@
+[submodule "gatekeeper-mobile"]
+	path = gatekeeper-mobile
+	url = https://github.com/isyouhoney/gatekeeper-mobile.git
+[submodule "gatekeeper-cam"]
+	path = gatekeeper-cam
+	url = https://github.com/isyouhoney/gatekeeper-cam.git
+[submodule "gatekeeper-server"]
+	path = gatekeeper-server
+	url = https://github.com/isyouhoney/gatekeeper-server.git
